@@ -1,7 +1,7 @@
 name: CleanPing
 version: '${project.version}'
 main: it.frafol.cleanping.bukkit.CleanPing
-authors: [ frafol ]
+authors: [ PvpClubPlugins ]
 folia-supported: true
 api-version: 1.13
 description: "Adds /ping command to check your and player's ping."
