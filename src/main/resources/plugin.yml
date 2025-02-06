@@ -1,4 +1,4 @@
-name: CleanPing
+name: BetterPing
 version: '${project.version}'
 main: it.frafol.cleanping.bukkit.CleanPing
 authors: [ PvpClubPlugins ]
